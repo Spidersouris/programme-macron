@@ -39,7 +39,7 @@ supplémentaires nets par an pour un salaire de 2200 euros nets par mois
       <engagement> Nous augmenterons le pouvoir d’achat des ouvriers, 
 des employés et des salariés les moins bien payés. </engagement> <!-- 1.2 -->
       <mesure>Tous les smicards qui bénéficient de la prime d’activité toucheront par exemple l’équivalent d’un 13e mois de salaire, soit 100€ nets de plus chaque mois</mesure>
-      <analyse tag="danger" description="C'est insuffisant">
+      <analyse tag="warning" description="C'est insuffisant">
 Cette mesure se décompose en <a href="https://en-marche.fr/emmanuel-macron/le-programme/travail-emploi">deux parties</a> :<br />
 - augmentation du revenu net par la réduction des cotisations sociales financée par une hausse de la CSG<br />
 - augmentation de 50% de la prime d'activité<br />
